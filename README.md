@@ -1,1 +1,1 @@
-# prac_mlops
+# ml_pipeline_template1
